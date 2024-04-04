@@ -31,9 +31,3 @@ Imagine que você está desenvolvendo um sistema para uma concessionária de ve�
 4. Crie um método na classe `Moto` chamado `descricao()`, que retorna uma string formatada com informações básicas da moto, como: "Marca: [marca], Modelo: [modelo], Ano: [ano], Cor: [cor], Cilindradas: [cilindradas]".
 
 5. Crie instâncias de `Carro` e `Moto` e chame o método `descricao()` em cada uma para verificar se a descrição é correta.
-
-Exemplo de uso: 
-
-<img src="/assets/img/ex01.png">
-
-<img src="/assets/img/ex02.png">
