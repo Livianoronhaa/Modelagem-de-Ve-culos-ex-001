@@ -1,9 +1,9 @@
 class Moto {
-    String marca;
-    String modelo;
-    int ano;
-    String cor;
-    int cilindradas;
+	public String marca;
+	public String modelo;
+	public int ano;
+	public String cor;
+	public int cilindradas;
 
     public Moto() {}
 
